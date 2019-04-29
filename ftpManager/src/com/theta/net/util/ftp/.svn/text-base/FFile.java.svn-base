@@ -1,0 +1,54 @@
+package com.theta.net.util.ftp;
+
+import java.util.Date;
+
+public class FFile implements Comparable<FFile>{
+
+	String name; // 文件名
+
+	long size; // 文件大小
+
+	Date lastModified; // 最后修改时间
+
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public long getSize() {
+		return size;
+	}
+
+	public void setSize(long size) {
+		this.size = size;
+	}
+
+	public Date getLastModified() {
+		return lastModified;
+	}
+
+	public void setLastModified(Date lastModified) {
+		this.lastModified = lastModified;
+	}
+
+	
+	
+	
+	@Override
+	public String toString() {
+		return "FTPfile [name=" + name + ", size=" + size + ", lastModified="
+				+ lastModified + "]";
+	}
+
+	@Override
+	public int compareTo(FFile ftPfile) {
+		// TODO Auto-generated method stub
+		return this.lastModified.compareTo(ftPfile.getLastModified());
+	}
+
+
+}

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nspweb/!svn/ver/50/trunk/plug-in/ftpManager/ftpManager/src/com/theta/net/util/ftp
+END
+IFTPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/nspweb/!svn/ver/55/trunk/plug-in/ftpManager/ftpManager/src/com/theta/net/util/ftp/IFTPConnection.java
+END
+FtpManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/nspweb/!svn/ver/48/trunk/plug-in/ftpManager/ftpManager/src/com/theta/net/util/ftp/FtpManager.java
+END
+FFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nspweb/!svn/ver/47/trunk/plug-in/ftpManager/ftpManager/src/com/theta/net/util/ftp/FFile.java
+END
+Filebean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/nspweb/!svn/ver/48/trunk/plug-in/ftpManager/ftpManager/src/com/theta/net/util/ftp/Filebean.java
+END
+FTPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/nspweb/!svn/ver/49/trunk/plug-in/ftpManager/ftpManager/src/com/theta/net/util/ftp/FTPConnection.java
+END
